@@ -1,0 +1,61 @@
+PODS:
+  - camera_avfoundation (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_foreground_task (0.0.1):
+    - Flutter
+  - flutter_webrtc (0.9.31):
+    - Flutter
+    - WebRTC-SDK (= 104.5112.17)
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - shared_preferences_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - videosdk (0.0.1):
+    - Flutter
+  - WebRTC-SDK (104.5112.17)
+
+DEPENDENCIES:
+  - camera_avfoundation (from `.symlinks/plugins/camera_avfoundation/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_foreground_task (from `.symlinks/plugins/flutter_foreground_task/ios`)
+  - flutter_webrtc (from `.symlinks/plugins/flutter_webrtc/ios`)
+  - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/darwin`)
+  - shared_preferences_foundation (from `.symlinks/plugins/shared_preferences_foundation/darwin`)
+  - videosdk (from `.symlinks/plugins/videosdk/ios`)
+
+SPEC REPOS:
+  trunk:
+    - WebRTC-SDK
+
+EXTERNAL SOURCES:
+  camera_avfoundation:
+    :path: ".symlinks/plugins/camera_avfoundation/ios"
+  Flutter:
+    :path: Flutter
+  flutter_foreground_task:
+    :path: ".symlinks/plugins/flutter_foreground_task/ios"
+  flutter_webrtc:
+    :path: ".symlinks/plugins/flutter_webrtc/ios"
+  path_provider_foundation:
+    :path: ".symlinks/plugins/path_provider_foundation/darwin"
+  shared_preferences_foundation:
+    :path: ".symlinks/plugins/shared_preferences_foundation/darwin"
+  videosdk:
+    :path: ".symlinks/plugins/videosdk/ios"
+
+SPEC CHECKSUMS:
+  camera_avfoundation: 3125e8cd1a4387f6f31c6c63abb8a55892a9eeeb
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  flutter_foreground_task: 21ef182ab0a29a3005cc72cd70e5f45cb7f7f817
+  flutter_webrtc: 02c023207f972145a3bc8c7aada86754f264d563
+  path_provider_foundation: 29f094ae23ebbca9d3d0cec13889cd9060c0e943
+  shared_preferences_foundation: 5b919d13b803cadd15ed2dc053125c68730e5126
+  videosdk: a23c2981afcefd8ac781c7778d39669282441093
+  WebRTC-SDK: 082ae4893212534a779ca233f19a9df8efd5f3bd
+
+PODFILE CHECKSUM: 7be2f5f74864d463a8ad433546ed1de7e0f29aef
+
+COCOAPODS: 1.12.1
